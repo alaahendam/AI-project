@@ -54,8 +54,6 @@ First layer is vgg16 and thin new CNN layer with dropout</h4>
 <h4>google cloab to train model</h4>
 <h4>tensorflow machine learning framework</h4>
 <h4>tkinter python library to make desktop application</h4>
-
-
-
+<h2> My Name's Alaa Hendam Student in Computer Scenice Department in mansoura university I hope this project will be what you were looking for Thank You </h2>
 </html>
 
