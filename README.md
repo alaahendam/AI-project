@@ -1,6 +1,7 @@
 # AI-project
 hello this brain tumor classifier with accuracy 96.6% in test set i build it to AI course and this quik overview 
 # [AI demo video](https://youtu.be/JqU_cqCVm50)
+# [Data I Use](https://figshare.com/articles/brain_tumor_dataset/1512427)
 
 ![image](https://drive.google.com/uc?export=view&id=1gFzQi2tobnaaMVXRuEk021Km5Kih6oCX)
 ![image](https://drive.google.com/uc?export=view&id=1oteK8fbJKfOWuX1DG2_YtmMBkwAOPLZ7)
@@ -48,6 +49,11 @@ We used image preprocessing and thin using transfer learning fine tuning vgg16 a
 <h2>AI algorithm</h2>
 <h4>CNN (convolutional-neural-networks)
 First layer is vgg16 and thin new CNN layer with dropout</h4>
+<h2>Tool I Use </h2>
+<h4>python</h4>
+<h4>google cloab to train model</h4>
+<h4>tensorflow machine learning framework</h4>
+<h4>tkinter python library to make desktop application</h4>
 
 
 
