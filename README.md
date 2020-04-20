@@ -43,7 +43,7 @@ Continues. Multi-cooperative.
 This dataset consists of 708 images with glioma, 1426 images with meningioma, and 930 images with pituitary tumors. In our training phase, we equalize the amount of images that are used.
 Split data into 1500 image in training set and 450 image in validation set and 150 image in training.
 We used image preprocessing and thin using transfer learning fine tuning vgg16 and some new layer with dropout and using adam optimizer with start learninig rate 0.0003 and thin decay to 0.0002  after 25 epoch.</h4>
-![image](https://drive.google.com/uc?export=view&id=1oteK8fbJKfOWuX1DG2_YtmMBkwAOPLZ7)
+
 <h2>AI algorithm</h2>
 <h4>CNN (convolutional-neural-networks)
 First layer is vgg16 and thin new CNN layer with dropout</h4>
@@ -51,3 +51,4 @@ First layer is vgg16 and thin new CNN layer with dropout</h4>
 
 
 </html>
+![image](https://drive.google.com/uc?export=view&id=1oteK8fbJKfOWuX1DG2_YtmMBkwAOPLZ7)
