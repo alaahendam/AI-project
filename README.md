@@ -3,6 +3,7 @@ hello this brain tumor classifier with accuracy 96.3% in test set i build it to 
 
 ![image](https://drive.google.com/uc?export=view&id=1gFzQi2tobnaaMVXRuEk021Km5Kih6oCX)
 ![image](https://drive.google.com/uc?export=view&id=1oteK8fbJKfOWuX1DG2_YtmMBkwAOPLZ7)
+![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
 <html>
 <h1>AI Project Computer Scenice Department </h1>
 <h2>Intelligent Agent<h2>
