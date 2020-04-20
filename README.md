@@ -3,6 +3,7 @@ hello this brain tumor classifier with accuracy 96.6% in test set i build it to 
 # [AI demo video](https://youtu.be/JqU_cqCVm50)
 
 ![image](https://drive.google.com/uc?export=view&id=1gFzQi2tobnaaMVXRuEk021Km5Kih6oCX)
+![image](https://drive.google.com/uc?export=view&id=1oteK8fbJKfOWuX1DG2_YtmMBkwAOPLZ7)
 <html>
 <h1>AI Project Computer Scenice Department </h1>
 <h2>Intelligent Agent<h2>
@@ -51,4 +52,4 @@ First layer is vgg16 and thin new CNN layer with dropout</h4>
 
 
 </html>
-![image](https://drive.google.com/uc?export=view&id=1oteK8fbJKfOWuX1DG2_YtmMBkwAOPLZ7)
+
