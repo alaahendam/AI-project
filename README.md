@@ -1,5 +1,5 @@
 # AI-project
-hello this brain tumor classifier with accuracy 96.6% in test set i build it to AI course and this quik overview 
+Hello This Brain Tumor classifier This Model Can Classify Three Type Of Tumor With Accuracy 96.6% in Test Set I Build It To AI Course And This Quik Overview 
 # [AI demo video](https://youtu.be/JqU_cqCVm50)
 # [Data I Use](https://figshare.com/articles/brain_tumor_dataset/1512427)
 
